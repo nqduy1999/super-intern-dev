@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Super Intern Dev</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39F78D&width=435&lines=An+intern+frontend+developer+from+VN;Stay+hungry%2C+stay+foolish" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39F78D&width=435&lines=An+intern+frontend+developer+from+VN;Stay+hungry%2C+stay+foolish" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=super-intern-dev&label=Profile%20views&color=0e75b6&style=flat" alt="super-intern-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=super-intern-dev" alt="super-intern-dev" /></a> </p>
