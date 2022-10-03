@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=7570F7&center=true&vCenter=true&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+kekeke" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=7570F7&center=true&vCenter=true&width=755&lines=+Hi+%F0%9F%91%8B%2C+I'm+kekeke" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39F78D&center=true&vCenter=true&width=435&lines=An+intern+frontend+developer+from+VN;Stay+hungry%2C+stay+foolish" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=75F7BB&center=true&vCenter=true&width=755&lines=An+intern+frontend+dev+from+VN;Passionate+about+frontend+development" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=super-intern-dev&label=Profile%20views&color=0e75b6&style=flat" alt="super-intern-dev" /> </p>
 
