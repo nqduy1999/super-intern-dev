@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Super Intern Dev</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39F78D&width=435&lines=An+intern+frontend+developer+from+VN;Stay+hungry%2C+stay+foolish" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=7570F7&center=true&vCenter=true&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+kekeke" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39F78D&center=true&vCenter=true&width=435&lines=An+intern+frontend+developer+from+VN;Stay+hungry%2C+stay+foolish" alt="Typing SVG" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=super-intern-dev&label=Profile%20views&color=0e75b6&style=flat" alt="super-intern-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=super-intern-dev" alt="super-intern-dev" /></a> </p>
